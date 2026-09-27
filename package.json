@@ -1,0 +1,21 @@
+{
+  "name": "travel-blog",
+  "version": "1.0.0",
+  "description": "WanderWave - Full-Stack Travel Journal & Destination Explorer with SQLite (College Project)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
